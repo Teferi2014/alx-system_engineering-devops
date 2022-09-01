@@ -1,1 +1,1 @@
-script that adds execute permission
+ script that prints the effective username of the current user.
