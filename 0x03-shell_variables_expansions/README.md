@@ -1,1 +1,3 @@
-Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+Create a script that prints hello u
+
+ser, where user is the current Linux user.
