@@ -1,3 +1,1 @@
-Create a script that prints hello u
-
-ser, where user is the current Linux user.
+Write a script that converts a number from base 10 to base 16.
