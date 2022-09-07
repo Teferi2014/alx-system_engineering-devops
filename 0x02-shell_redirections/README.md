@@ -1,3 +1,1 @@
-Display the content of /etc/passwd and /etc
-
-/hosts
+Write a shell script that creates a file
