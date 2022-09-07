@@ -1,3 +1,1 @@
-Write a script that displays a confused smi
-
-ley 
+Display the content of /etc/passwd and /etc/hosts
