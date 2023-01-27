@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-# what is my PID?
+#Display its own PID.
 
-echo $BASHPID
+
+
+echo $$
